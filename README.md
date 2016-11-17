@@ -1,7 +1,7 @@
 # CFT4MTS
 CFT4MTS by Yanchun Wang
 
-Libraries needed for run CFT4MTS (In MAC ENVIRONMENT):
+Libraries needed for running CFT4MTS (In MAC ENVIRONMENT):
 
 commons-codec-1.9.jar
 commons-logging-1.1.3.jar
